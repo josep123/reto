@@ -1,0 +1,9 @@
+
+#sidebar {
+    flex: 20%;
+    background-color: #f3f3f3;
+    align-content: center;
+    justify-content: center;
+    flex-flow: column;
+
+}

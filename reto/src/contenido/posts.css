@@ -1,0 +1,7 @@
+#containerPosts {
+    display:flex;
+}
+
+.Post {
+    width:33%;
+}
